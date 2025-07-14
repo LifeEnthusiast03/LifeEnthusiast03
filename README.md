@@ -1,60 +1,42 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sougata%20Saha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sougata%20Saha&fontSize=42&fontColor=fff&animation=fadeInUp&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Web+Enthusiast+%F0%9F%A4%96;React+%7C+Express.js+%7C+Python;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sougata+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Web+Enthusiast+%F0%9F%A4%96;React+%7C+Express.js+%7C+Python;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> About Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
-</div>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🎯 Current Mission
 ```javascript
 const sougata = {
-    code: ["JavaScript", "Python", "Java", "C++"],
-    askMeAbout: ["Web Dev", "AI/ML", "RAG Tech"],
+    currentlyWorkingOn: "React & Express.js Projects",
+    currentlyLearning: "RAG-based Technologies & Advanced React",
+    exploring: "AI/ML Integration in web applications",
+    collaborateOn: "Full-Stack Web Development Projects",
+    askMeAbout: ["JavaScript", "React", "Express.js", "Web Development"],
+    reachMe: "sahasougata820@gmail.com",
+    pronouns: "He/Him",
+    funFact: "I talk to my code like it can hear me—especially when it's not working! 😆",
+    code: ["JavaScript", "Python", "Java", "C++", "HTML", "CSS"],
     technologies: {
-        frontEnd: ["React", "Redux", "HTML", "CSS"],
+        frontEnd: ["React", "Redux", "HTML", "CSS", "Tailwind", "Bootstrap"],
         backEnd: ["Express.js", "Node.js"],
         databases: ["Firebase", "Appwrite", "MySQL"],
-        tools: ["Git", "Vite", "Netlify", "Vercel"]
+        tools: ["Git", "Vite", "Netlify", "Vercel", "NPM"]
     },
-    currentFocus: "RAG-based AI Applications",
-    funFact: "I debug with console.log like it's 2010 😄"
+    currentFocus: "Building Full-Stack Applications with RAG-based AI Integration"
 };
 ```
 
-</td>
-<td width="50%">
-
-### 🚀 Quick Facts
-- 🔭 **Working on:** React & Express.js Projects
-- 🌱 **Learning:** RAG Technologies & Advanced React
-- 🤖 **Exploring:** AI/ML Integration in Web Apps
-- 👯 **Open to:** Full-Stack Collaboration
-- 💬 **Ask me about:** JavaScript, React, Web Development
-- 📫 **Reach me:** sahasougata820@gmail.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I talk to my code like it understands me!
-
-</td>
-</tr>
-</table>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Connect with Me
@@ -120,7 +102,7 @@ const sougata = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LifeEnthusiast03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LifeEnthusiast03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -166,5 +148,5 @@ const sougata = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
 </div>
