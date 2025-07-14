@@ -10,10 +10,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I'm currently working on **React Projects**
-- 🌱 I'm currently learning **CSS & Advanced React**
-- 👯 I'm looking to collaborate on **Web Development Projects**
-- 💬 Ask me about **JavaScript, React, Web Development**
+- 🔭 I'm currently working on **React & Express.js Projects**
+- 🌱 I'm currently learning **RAG-based Technologies & Advanced React**
+- 🤖 Exploring **AI/ML Integration** in web applications
+- 👯 I'm looking to collaborate on **Full-Stack Web Development Projects**
+- 💬 Ask me about **JavaScript, React, Express.js, Web Development**
 - 📫 How to reach me: **sahasougata820@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I talk to my code like it can hear me—especially when it's not working!** 😆
@@ -65,22 +66,28 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,redux,tailwind,bootstrap,vite,firebase,appwrite,mysql,git,github,netlify,vercel,npm" />
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Languages & Frameworks
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Languages
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=javascript,JavaScript,f7df1e;python,Python,3776ab;java,Java,ed8b00;c,C,00599c;&line2=cpp,C%2B%2B,00599c;html5,HTML5,e34f26;css3,CSS3,1572b6;" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> Frameworks & Libraries
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frameworks%20%26%20Libraries&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=react,React,61dafb;redux,Redux,764abc;tailwindcss,TailwindCSS,38b2ac;bootstrap,Bootstrap,7952b3;&line2=vite,Vite,646cff;npm,NPM,cb3837;" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite,npm" />
 </div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7157a2.gif" width="30" /> Database & Tools
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Database%20%26%20Tools&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=firebase,Firebase,ffca28;appwrite,Appwrite,fd366e;mysql,MySQL,4479a1;git,Git,f05032;&line2=netlify,Netlify,00c7b7;vercel,Vercel,000000;" />
+  <img src="https://skillicons.dev/icons?i=firebase,appwrite,mysql,git,github,netlify,vercel" />
 </div>
 
 <div align="center">
@@ -95,11 +102,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LifeEnthusiast03&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LifeEnthusiast03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LifeEnthusiast03&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LifeEnthusiast03&theme=tokyonight" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Trophies
@@ -111,7 +118,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Current Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Mastering+React+%26+JavaScript;Building+Responsive+Web+Apps;Learning+New+Technologies;Creating+Amazing+User+Experiences" alt="Current Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Applications;React+%26+Express.js+Developer;Exploring+RAG-based+Technologies;AI%2FML+Integration+Enthusiast;Creating+Amazing+User+Experiences" alt="Current Focus" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Random Dev Quote
