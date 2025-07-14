@@ -1,5 +1,9 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Sougata+Saha+%F0%9F%91%8B;Web+Developer+%26+Tech+Enthusiast;Building+Amazing+Web+Experiences;Always+Learning+%26+Growing!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sougata%20Saha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Web+Enthusiast+%F0%9F%A4%96;React+%7C+Express.js+%7C+Python;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,16 +12,46 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+</div>
 
-- 🔭 I'm currently working on **React & Express.js Projects**
-- 🌱 I'm currently learning **RAG-based Technologies & Advanced React**
-- 🤖 Exploring **AI/ML Integration** in web applications
-- 👯 I'm looking to collaborate on **Full-Stack Web Development Projects**
-- 💬 Ask me about **JavaScript, React, Express.js, Web Development**
-- 📫 How to reach me: **sahasougata820@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I talk to my code like it can hear me—especially when it's not working!** 😆
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎯 Current Mission
+```javascript
+const sougata = {
+    code: ["JavaScript", "Python", "Java", "C++"],
+    askMeAbout: ["Web Dev", "AI/ML", "RAG Tech"],
+    technologies: {
+        frontEnd: ["React", "Redux", "HTML", "CSS"],
+        backEnd: ["Express.js", "Node.js"],
+        databases: ["Firebase", "Appwrite", "MySQL"],
+        tools: ["Git", "Vite", "Netlify", "Vercel"]
+    },
+    currentFocus: "RAG-based AI Applications",
+    funFact: "I debug with console.log like it's 2010 😄"
+};
+```
+
+</td>
+<td width="50%">
+
+### 🚀 Quick Facts
+- 🔭 **Working on:** React & Express.js Projects
+- 🌱 **Learning:** RAG Technologies & Advanced React
+- 🤖 **Exploring:** AI/ML Integration in Web Apps
+- 👯 **Open to:** Full-Stack Collaboration
+- 💬 **Ask me about:** JavaScript, React, Web Development
+- 📫 **Reach me:** sahasougata820@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I talk to my code like it understands me!
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -27,7 +61,7 @@
 
 <div align="center">
   <a href="https://sougatasaha.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://instagram.com/pet_pawli_cious">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -42,22 +76,6 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> My Portfolio
-
-<div align="center">
-  <a href="https://sougatasaha.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Check+out+my+latest+projects!;Interactive+web+applications;Modern+UI%2FUX+designs;Built+with+React+%26+JavaScript" alt="Portfolio Description" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> Tech Stack
@@ -102,7 +120,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LifeEnthusiast03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LifeEnthusiast03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -138,7 +156,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="900">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </div>
 
 ---
