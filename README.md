@@ -1,9 +1,9 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sougata%20Saha&fontSize=42&fontColor=fff&animation=fadeInUp&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sougata%20Saha&fontSize=42&fontColor=fff&animation=scaleIn&fontAlignY=32" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sougata+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Web+Enthusiast+%F0%9F%A4%96;React+%7C+Express.js+%7C+Python;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sougata+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Web+Enthusiast+%F0%9F%A4%96;React+%7C+Express.js+%7C+Python;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <div align="center">
