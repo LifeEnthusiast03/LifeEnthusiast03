@@ -67,6 +67,14 @@ const sougata = {
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 </div>
 
+## 🟧 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sougata820?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
+</div>
+
+<br/>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> Tech Stack
 
 <div align="center">
@@ -115,12 +123,6 @@ const sougata = {
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Analytics
 
 <div align="center">
@@ -142,15 +144,6 @@ const sougata = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LifeEnthusiast03&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
-## 🟧 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/sougata820?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
-</div>
-
-<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Current Focus
 
