@@ -91,6 +91,20 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LifeEnthusiast03/LifeEnthusiast03/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LifeEnthusiast03/LifeEnthusiast03/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LifeEnthusiast03/LifeEnthusiast03/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">&nbsp; GitHub Analytics
 
 <div align="center">
@@ -150,22 +164,6 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LifeEnthusiast03/LifeEnthusiast03/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LifeEnthusiast03/LifeEnthusiast03/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/LifeEnthusiast03/LifeEnthusiast03/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-> 💡 **Note:** To enable the snake animation, add a GitHub Actions workflow. See [setup instructions below](#-snake-animation-setup).
-
-<br/>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </div>
@@ -175,42 +173,3 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </div>
-
-<!--
-## 🐍 Snake Animation Setup
-
-To enable the contribution snake animation on your profile:
-
-1. Create `.github/workflows/snake.yml` in your profile repository (`LifeEnthusiast03/LifeEnthusiast03`)
-2. Paste the following workflow:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: LifeEnthusiast03
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Go to your repo's **Settings > Actions > General** and enable **Read and write permissions** under "Workflow permissions"
-4. Run the workflow manually once from the **Actions** tab
--->
