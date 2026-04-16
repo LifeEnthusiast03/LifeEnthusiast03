@@ -147,7 +147,7 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LifeEnthusiast03&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=LifeEnthusiast03&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 <br/>
