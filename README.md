@@ -115,12 +115,6 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LifeEnthusiast03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=c9d1d9" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LifeEnthusiast03&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FF6B6B&area=true&area_color=A9FEF7&hide_border=true" />
 </div>
 
@@ -138,6 +132,10 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LifeEnthusiast03&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LifeEnthusiast03&theme=tokyonight&utcOffset=5.5" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LifeEnthusiast03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=c9d1d9" />
 </div>
 
 <br/>
