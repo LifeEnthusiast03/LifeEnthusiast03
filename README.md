@@ -9,10 +9,10 @@
 </div>
 
 <div align="center">
-  <a href="https://sougatasaha.vercel.app/">
+  <a href="https://www.sougatasha.in/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>&nbsp;
-  <a href="https://linkedin.com/in/Sougatasaha">
+  <a href="https://www.linkedin.com/in/sougatasaha/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://leetcode.com/u/sougata820/">
@@ -55,21 +55,19 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
 ```yaml
 🎯 Focus:       RAG Applications · Full-Stack Development · DSA (C++)
 🤖 AI/ML:       LangChain · FAISS · ChromaDB · RAG Pipelines
-🌐 Frontend:    React · HTML · CSS · JavaScript
+🌐 Frontend:    React · TypeScript · JavaScript · HTML · CSS
 ⚙️ Backend:     FastAPI · Node.js · Express.js
 🗄️ Databases:   PostgreSQL · MySQL · MongoDB · Redis
 🚀 DevOps:      Docker · Git · Vercel
-💻 Languages:   C++ · Python · JavaScript · Java · C
+💻 Languages:   C++ · Python · TypeScript · JavaScript · Java · C
 ```
-
-<br/>
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">&nbsp; Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,java,js,c&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=react,html,css,fastapi,nodejs,express&theme=dark" />
   <br/>
@@ -87,7 +85,24 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
   <img src="https://img.shields.io/badge/RAG_Pipelines-764ABC?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
-<br/>
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/LifeEnthusiast03/Rag_App">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LifeEnthusiast03&repo=Rag_App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/LifeEnthusiast03/rag_backend">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LifeEnthusiast03&repo=rag_backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/LifeEnthusiast03/Spendwisee">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LifeEnthusiast03&repo=Spendwisee&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/LifeEnthusiast03/Portfolio">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LifeEnthusiast03&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9" />
+  </a>
+</div>
 
 ---
 
@@ -100,8 +115,6 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
     <img alt="github-snake" src="https://raw.githubusercontent.com/LifeEnthusiast03/LifeEnthusiast03/output/github-snake-dark.svg" />
   </picture>
 </div>
-
-<br/>
 
 ---
 
@@ -134,12 +147,6 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LifeEnthusiast03&theme=tokyonight&utcOffset=5.5" />
 </div>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LifeEnthusiast03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=c9d1d9" />
-</div>
-
-<br/>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -148,8 +155,6 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
   <img src="https://github-trophies.vercel.app/?username=LifeEnthusiast03&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
-<br/>
-
 ---
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="25">&nbsp; LeetCode Stats
@@ -157,8 +162,6 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/sougata820?theme=dark&font=JetBrains+Mono&ext=contest&border=0" />
 </div>
-
-<br/>
 
 ---
 
