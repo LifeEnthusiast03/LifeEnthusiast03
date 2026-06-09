@@ -87,25 +87,6 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/LifeEnthusiast03/Rag_App">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LifeEnthusiast03&repo=Rag_App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/LifeEnthusiast03/rag_backend">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LifeEnthusiast03&repo=rag_backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/LifeEnthusiast03/Spendwisee">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LifeEnthusiast03&repo=Spendwisee&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/LifeEnthusiast03/Portfolio">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LifeEnthusiast03&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9" />
-  </a>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
