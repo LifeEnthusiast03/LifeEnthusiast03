@@ -18,6 +18,12 @@
   <a href="https://leetcode.com/u/sougata820/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/sahasoug21zk">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://codeforces.com/profile/Sougatasaha">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>&nbsp;
   <a href="mailto:sahasougata820@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -142,6 +148,26 @@ I'm a **Full-Stack Developer** and **AI Engineer** passionate about building int
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/sougata820?theme=dark&font=JetBrains+Mono&ext=contest&border=0" />
+</div>
+
+---
+
+## 🟢 GeeksForGeeks Stats
+
+<div align="center">
+  <a href="https://www.geeksforgeeks.org/profile/sahasoug21zk">
+    <img src="https://gfgstatscard.vercel.app/sahasoug21zk?theme=dark" alt="GeeksForGeeks Stats" />
+  </a>
+</div>
+
+---
+
+## 🔵 Codeforces Stats
+
+<div align="center">
+  <a href="https://codeforces.com/profile/Sougatasaha">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sougatasaha&theme=dark" alt="Codeforces Stats" />
+  </a>
 </div>
 
 ---
